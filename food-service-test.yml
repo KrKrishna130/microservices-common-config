@@ -4,6 +4,6 @@ server:
 info:
   app:
     name: "Food Service"
-    description: "This is Food Service. You are testing this service."
+    description: "This is Food Service. You are testing this service.check endpoints by refresh"
     version: "1.0 Testing"
 
