@@ -3,6 +3,6 @@ server:
 info:
   app:
     name: "Food Service"
-    description: "This is Food Service. We are developing right now.now config read from git hub account"
+    description: "This is Food Service. We are developing right now.now config read from git hub account.this for check refresh end points"
     version: "1.0 Under Development"
 
