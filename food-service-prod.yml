@@ -15,7 +15,7 @@ spring:
 info:
   app:
     name: "Food Service"
-    description: "This is Food Service. Ready to serve users. This configurations is located in config server"
+    description: "This is Food Service. Ready to serve users. This configurations is located in config server.and check refresh end points of actuator"
     version: "1.0 Production"
 
 eureka:
